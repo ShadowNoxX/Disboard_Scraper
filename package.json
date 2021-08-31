@@ -1,0 +1,19 @@
+{
+  "name": "disboard_scraper",
+  "version": "1.0.0",
+  "description": "This tool allows you to scrap servers from disboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadowNoxX/Disboard_Scraper.git"
+  },
+  "author": "ShadowNox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShadowNoxX/Disboard_Scraper/issues"
+  },
+  "homepage": "https://github.com/ShadowNoxX/Disboard_Scraper#readme"
+}
